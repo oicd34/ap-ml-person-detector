@@ -8,7 +8,7 @@
 <link rel="File-List" href="file:///C:/Users/nxf55124/Desktop/appswpacks-dvs-pvt-sensor/LA%20OPT%20NXP%20Software%20License%20v10%20FINAL%20191204.fld/filelist.xml">
 <!--[if gte mso 9]><xml>
  <o:DocumentProperties>
-  <o:Author>Jaime French</o:Author>
+  <o:Author>Jaime French</o:Author>LA_OPT_NXP_Software_License.txt
   <o:LastAuthor>Steve Cox</o:LastAuthor>
   <o:Revision>2</o:Revision>
   <o:TotalTime>2</o:TotalTime>
